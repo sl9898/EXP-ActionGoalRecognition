@@ -1,0 +1,16 @@
+commandwindow
+run_GOAL_OUTCOME(1,1);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,2);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,3); 
+WaitSecs(5);
+run_GOAL_OUTCOME(1,4);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,5);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,6);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,7);
+WaitSecs(5);
+run_GOAL_OUTCOME(1,8);

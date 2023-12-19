@@ -1,0 +1,9 @@
+{Error: <a href="matlab: opentoline('/Users/liusc/Downloads/github/experiment/makeTRD_GOAL_OUTCOME.m',635,4)">File: makeTRD_GOAL_OUTCOME.m Line: 635 Column: 4</a>
+The function "generateSeqBalancedTransitions" was closed with an 'end', but at least one other function definition was not. To avoid confusion when using nested functions, it is illegal to
+use both conventions in the same file.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run_GOAL_OUTCOME', '/Users/liusc/Downloads/github/experiment/run_GOAL_OUTCOME.m', 89)" style="font-weight:bold">run_GOAL_OUTCOME</a> (<a href="matlab: opentoline('/Users/liusc/Downloads/github/experiment/run_GOAL_OUTCOME.m',89,0)">line 89</a>)
+    makeTRD_GOAL_OUTCOME(iSub);
+} 
+opentoline('/Users/liusc/Downloads/github/experiment/makeTRD_GOAL_OUTCOME.m',635,4)
+run_GOAL_OUTCOME(1,1)

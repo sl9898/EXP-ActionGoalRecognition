@@ -1,0 +1,7 @@
+{Execution of script makeTRD_GOAL_OUTCOME as a function is not supported:
+/Users/liusc/Downloads/github/experiment/makeTRD_GOAL_OUTCOME.m
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run_GOAL_OUTCOME', '/Users/liusc/Downloads/github/experiment/run_GOAL_OUTCOME.m', 89)" style="font-weight:bold">run_GOAL_OUTCOME</a> (<a href="matlab: opentoline('/Users/liusc/Downloads/github/experiment/run_GOAL_OUTCOME.m',89,0)">line 89</a>)
+    makeTRD_GOAL_OUTCOME(iSub);
+} 
+run_GOAL_OUTCOME(1,1)
