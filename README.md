@@ -1,5 +1,5 @@
 # EXP-ActionGoalRecognition
-This is the experiment scripts and analyses scripts for the fMRI study *Dissociating Goal from Outcome During Action Observation*. The study aims to find
+This is the experiment scripts and analyses scripts for the fMRI study *Dissociating Goal from Outcome During Action Observation*. The study aims to find regions in the brain that represent action goals independently of outcomes when people are observing others' actions.
 
 ## Experiment
 - Contains scripts for running the fRMI experiment
@@ -14,7 +14,8 @@ This is the experiment scripts and analyses scripts for the fMRI study *Dissocia
 ## Analysis
 - Contains scripts for 3 parts of the data analysis
 - "scripts00_preprocessing": scripts for preprocssing the fMRI scans for each subject
-- "scripts01_GLM_categorical": scripts for
+- "scripts01_GLM_categorical": scripts for computing the Generalized Linear Models (GLM) for each subject and the entire group
+- "scripts02_MVPA": scripts for multivariate pattern analysis (MVPA decoding) of neural patterns using SVM classifiers
 
 ### Instruction
 - For each part of the analysis:
